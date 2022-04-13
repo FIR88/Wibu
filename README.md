@@ -55,8 +55,4 @@ instal= > python wibu2_enc.py
 
 instal= > python wibu_enc.py
 
-gabung grup : https://chat.whatsapp.com/HKBonl0ldcX5cCG6P8FeEM
-
-
-
-![Screenshot_2022-04-11-00-18-40-67_84d3000e3f4017145260f7618db1d683-picsay.png](https://user-images.githubusercontent.com/96581969/162633006-f44b31e8-e10b-47e6-ac49-81a7c4442b1e.png)
+![Screenshot_2022-04-13-13-13-38-49_84d3000e3f4017145260f7618db1d683-picsay.png](https://user-images.githubusercontent.com/96581969/163199711-6a5d2056-8e51-45ae-bde2-1ef3e374fe73.png)
